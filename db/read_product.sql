@@ -1,0 +1,1 @@
+SELECT * FROM shelfie WHERE product_id = $1
